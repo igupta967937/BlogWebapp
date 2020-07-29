@@ -1,0 +1,17 @@
+{
+  "para":
+  {
+    "local_server": "True",
+    "uri": "sqlite:///blogData.sqlite3",
+    "fb_url": "https://www.facebook.com/ishaan.gupta.334/",
+    "github_url": "https://github.com/igupta967937",
+    "twitter_url": "https://twitter.com",
+    "gmail-user": "ishaan4newacc@gmail.com",
+    "gmail-pass": "ishaan883103665",
+    "no_of_post": 3,
+    "admin_user":"yourname",
+    "admin_pas": "yourpass",
+    "prod_upload_location":"static/img",
+    "local_upload_location":"static\\img"
+  }
+}
